@@ -1,0 +1,82 @@
+
+<theme>
+
+   <formatVersion>4</formatVersion>
+   
+   <feature supported="carousel">
+   <view name="system">
+      <carousel name="systemcarousel">
+        <type>vertical_wheel</type>
+		<pos>0 0</pos>
+        <size>1 1</size>
+		<logoScale>1.3</logoScale>
+		<logoSize>0.14 0.14</logoSize>
+        <color>00000000</color>
+		<logoRotation>-6.5</logoRotation>
+		<logoRotationOrigin>5.0 0.3</logoRotationOrigin>
+		<logoAlignment>right</logoAlignment>
+		<maxLogoCount>5</maxLogoCount>
+		<zIndex>71</zIndex>
+      </carousel>
+	  <image name="vertical-layer" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./cobaltoverlay.png</path>
+		 <zIndex>70</zIndex>
+      </image>
+	  
+	  	 <text name="info1" extra="true">
+		<fontPath>./fonts/texgyre.otf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+		<fontSize>0.022</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<size>0.38 0</size>
+		<pos>0.065 0.509</pos>
+		<zIndex>82</zIndex>
+      </text>	
+
+	<text name="info2" extra="true">
+		<fontPath>./fonts/polan.otf</fontPath>
+		<color>FFFFFF</color>
+		<alignment>left</alignment>
+ 		<fontSize>0.0428</fontSize>
+		<lineSpacing>1</lineSpacing>
+		<forceUppercase>true</forceUppercase>
+		<size>0.46 0.35</size>
+		<pos>0.065 0.249</pos>
+		<zIndex>82</zIndex>
+      </text>
+	  
+      <image name="logo">
+	  	 <path>./../_inc/logos/$system.png</path>
+		 <path>./../_inc/logos/$system.svg</path>
+	  </image>
+	  <image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./../_inc/arts/$system.jpg</path>
+		 		 <zIndex>60</zIndex>
+      </image>
+	<text name="systemInfo">
+		<pos>-0.22 0.652</pos>
+         <alignment>center</alignment>
+         <fontPath>./../_inc/fonts/texgyre.otf</fontPath>
+	     <fontSize>0.0128</fontSize>
+	     <color>FFFFFF</color>
+		 <zIndex>95</zIndex>
+    </text>	  
+			<helpsystem name="help">
+         <fontPath>./../_inc/fonts/Circular Std Book.ttf</fontPath>
+         <fontSize>0.016</fontSize>
+         <pos>0.045 0.955</pos>
+		    <textColor>EFEFEF</textColor>
+            <iconColor>EFEFEF95</iconColor>
+		</helpsystem>  
+	  
+	</view>
+    </feature>
+	
+</theme>
