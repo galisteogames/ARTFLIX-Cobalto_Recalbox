@@ -20,7 +20,7 @@ ARTFLIX-Cobalto vem com 4 vistas diferentes para seleção de sistemas (Cobalto,
 
 Todas as artes foram feitas do zero - respeitando os jogos icônicos da plataforma representada de forma única.
 
-![índice3](https://user-images.githubusercontent.com/69799468/136852962-5aef194f-1f40-4b1d-8460-3fd07c5b61c9.jpg)
+![foto03](https://user-images.githubusercontent.com/69799468/136855451-9beef821-687d-420c-b599-93de90f551c6.png)
 
 # MUITAS OPÇÕES
 
