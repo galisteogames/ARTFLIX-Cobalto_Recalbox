@@ -3,8 +3,6 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-	
-				<text name="info1" extra="true">
 			<text>DAPHNE es un emulador de juegos de disco láser gratuito que permite jugar juegos de arcade laserdisc. Usando Daphne, uno puede jugar varios juegos de arcade laserdisc como Dragon's Lair, Astron Belt y mucho más.</text>
 		</text>
 		
@@ -21,7 +19,7 @@
 		</text>	
 
 
-						<text name="info5" extra="true">
+		<text name="info5" extra="true">
 			<text>DESARROLLADOR:</text>
 		</text>
 	

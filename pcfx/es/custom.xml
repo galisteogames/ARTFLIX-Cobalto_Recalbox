@@ -3,7 +3,6 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text name="info1" extra="true">
 			<text>Es una consola doméstica de 32 bits hecha por NEC. Es el sucesor del PC Engine, conocido como TurboGrafx-16 en América del Norte.</text>
 		</text>
 		
