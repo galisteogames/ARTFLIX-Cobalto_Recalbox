@@ -2,20 +2,20 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-				<text name="info1" extra="true" region="ES">
-			<text>Amstrad CPC (acrónimo del inglés Colour Personal Computer) fue una serie de ordenadores personales de 8 bits producidos por Amstrad durante la década de 1980 y a principios de la década de 1990.</text>
+		<text name="info1" extra="true">
+			<text>Lanzado por Atari en 1982 para sustituir al Atari 2600. Debido a los serios problemas con su control, el producto fue considerado un fracaso comercial.</text>
 		</text>
 		
 		<text name="info2" extra="true">
-			<text>Amstrad CPC</text>
+			<text>Atari 5200</text>
 		</text>
 		
 		<text name="info3" extra="true">
-			<text>1984</text>
+			<text>1982</text>
 		</text>
 		
 		<text name="info4" extra="true">
-			<text>Amstrad</text>
+			<text>Atari, Inc.</text>
 		</text>		
 	</view>
 </theme>
