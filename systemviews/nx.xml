@@ -25,7 +25,7 @@
       </image>
 
       <image name="logo">
-	  	 <path>./../_inc/logos/nx/$system.jpg</path>
+	  	 <path>./../_inc/logos/nx/$system.png</path>
 	  </image>
 	  
 	  <image name="background" extra="true">
