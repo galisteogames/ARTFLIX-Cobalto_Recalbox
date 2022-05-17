@@ -4,7 +4,7 @@
 
 # ARTFLIX-Cobalto
 
-Novo tema ALEKFULL para o Recalbox 7.x.x
+Novo tema ALEKFULL para o Recalbox 7.x.x and 8.x.x
 
 Criado por Fagner (AlekFull), exclusivo para as imagens Galisteo Cobalto. ARTFLIX-Cobalto foi inspirado na interface do ArtFlix. Foco nesse tema é dar espaço para as artes brilharem, capas dos jogos ou os personagens icônicos de cada sistema.
 
